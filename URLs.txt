@@ -1,0 +1,5 @@
+Eureka =>  http://localhost:8761/
+Zipkin => http://localhost:9411/zipkin/ 
+cURRENCY-Exchange => http://localhost:8000/currency-exchange/from/USD/to/INR
+cURRENCY-cONVERSION => http://localhost:8100/currency-conversion/from/INR/to/USD/quantity/10 
+Api Gateway /Spring Cloud Gateway => http://localhost:8765/currency-conversion-new/from/INR/to/USD/quantity/10
